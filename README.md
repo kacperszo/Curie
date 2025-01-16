@@ -1,2 +1,5 @@
 # Curie
-Computational chemistry software written in rust
+
+**_Ut occidere mortem_**  
+
+A computational chemistry and bioinformatics toolkit written in Rust.
